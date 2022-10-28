@@ -1,10 +1,12 @@
 <h1>Hello, World! 👀</h1>
 
-<h2> Hi, I’m <a href="https://www.instagram.com/samuelharo_/">Samuel Haro</a> <h2>
+<h2> Hi, I’m <a href="https://www.instagram.com/samuelharo_/">Samuel Haro!</a> <h2>
+ 
+ 
+<h3> - 🖥️ Looking for job opportunities. Message me below. 🖥️ </h3>
 
 
-- 👨‍💻 I’m mostly interested in honing my skills as a programmer. But I also enjoy music and investing in stocks/crypto. 👨‍💻
-
+<h5>- 👨‍💻 I’m mostly interested in honing my skills as a programmer. But I also enjoy music and investing in stocks/crypto. 👨‍💻 
 
 - 🖥️ Currently focusing on TypeScript, React, Node and Nest, while also studying a lot more! 🖥️
 
@@ -12,10 +14,10 @@
 - 👨‍💻 Working on my bachelors degree in Data Science in my spare time. 👨‍💻
   
   
-- 🤝 I’m looking to collaborate on anything and everything.. Let's link up 🤝
+- 🤝 I’m looking to collaborate on anything and everything.. Let's link up 🤝 </h5>
 
 
-- 🖥️ Also looking for job opportunities. Message me below. 🖥️
+
 
 <h2> 📫 Contact me: </h2>
 <a href="https://www.instagram.com/samuelharo_/">Instagram</a> <br>
