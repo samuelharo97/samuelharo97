@@ -4,7 +4,7 @@
 <h1> - 🖥️ Looking for job opportunities. Message me below. 🖥️ </h1>
  
  
- <h2>- 🖥️ Currently focusing on TypeScript, React, Node and Nest, while also studying a lot more! 🖥️ </h2>
+ <h2>- Currently focusing on TypeScript, React, Node and Nest, while also studying a lot more! 🖥️ </h2>
 
  
 
