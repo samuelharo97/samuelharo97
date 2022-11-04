@@ -21,5 +21,5 @@
 
 <h3> 📫 Contact me: </h3>
 <a href="https://www.instagram.com/samuelharo_/">Instagram</a> <br>
-<a href="https://www.linkedin.com/in/samuel-haro-b14551236//">LinkedIn</a>
+<a href="https://www.linkedin.com/in/samuel-haro-b14551236//">LinkedIn</a><br>
  <a href="https://api.whatsapp.com/send?phone=5515998013934">WhatsApp<a/>
