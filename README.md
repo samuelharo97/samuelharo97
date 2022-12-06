@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 fullstack developer 🚀</h3>
 
-Hi there, thanks for stopping by, I'm **Samuel Haro**.
+Thanks for stopping by, I'm **Samuel Haro**.
 
 <img align='right' src="https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47ejrqne2ds1wwk2lyjjfok4rnubowzsnnze5k3p1v&rid=giphy.gif&ct=g" width="230" height="288">
 
@@ -27,7 +27,7 @@ const samuel = {
 - Working on my bachelors degree in Data Science in my spare time. 👨‍💻
 
 
-![samuel's github stats]("https://github-readme-stats.vercel.app/api?username=samuelharo97&hide=contribs,prs&count_private=true&show_icons=true")
+![samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelharo97&hide=contribs,prs&count_private=true&show_icons=true)
 
 <h3> 📫 Contact me: </h3>
 <a href="https://www.instagram.com/samuelharo_/">Instagram</a> <br>
