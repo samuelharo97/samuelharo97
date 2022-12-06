@@ -4,7 +4,7 @@
 
 Thanks for stopping by, I'm **Samuel Haro**.
 
-<img align='right' src="https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47ejrqne2ds1wwk2lyjjfok4rnubowzsnnze5k3p1v&rid=giphy.gif&ct=g" width="230" height="285">
+<img align='right' src="https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47ejrqne2ds1wwk2lyjjfok4rnubowzsnnze5k3p1v&rid=giphy.gif&ct=g" width="230" height="270">
 
 ```javascript
 const samuel = {
