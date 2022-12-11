@@ -9,7 +9,7 @@ Thanks for stopping by, I'm **Samuel Haro**.
 ```javascript
 const samuel = {
     pronouns: "He" || "Him",
-    askMeAbout: ["web dev", "crypto", "football"],
+    askMeAbout: ["web dev", "crypto", "tech", "gaming"],
     technologies: {
         languages: ["JavaScript", "TypeScript"],
         frontEnd: {
