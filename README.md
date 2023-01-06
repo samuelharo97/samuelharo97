@@ -27,7 +27,7 @@ const samuel = {
 - Working on my bachelors degree in Data Science in my spare time. 👨‍💻
 
 
-![samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelharo97&hide=contribs,prs&count_private=true&show_icons=true)
+![samuel's github stats](https://samuel-gitstats.vercel.app/api?username=samuelharo97&hide=contribs,prs&count_private=true&show_icons=true)
 
 <h3> 📫 Contact me: </h3>
 <a href="https://www.instagram.com/samuelharo_/">Instagram</a> <br>
