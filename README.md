@@ -11,7 +11,7 @@ const samuel = {
     pronouns: "He" || "Him",
     askMeAbout: ["web dev", "crypto", "tech", "gaming"],
     technologies: {
-        languages: ["JavaScript", "TypeScript"],
+        languages: ["JavaScript", "TypeScript", "Go"],
         frontEnd: {
             js: ["React"],
             css: ["styled-components", "tailwind"]
