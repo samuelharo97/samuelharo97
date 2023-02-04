@@ -8,7 +8,6 @@ Thanks for stopping by, I'm **Samuel Haro**.
 
 ```javascript
 const samuel = {
-    pronouns: "He" || "Him",
     askMeAbout: ["web dev", "crypto", "tech", "gaming"],
     technologies: {
         languages: ["JavaScript", "TypeScript", "Go"],
@@ -17,7 +16,8 @@ const samuel = {
             css: ["styled-components", "tailwind"]
         },
         backEnd: ["Node", "Express", "Nest"],
-        databases: ["Mongo", "Postgres", "SQLite"],
+        databases: ["PostgreSQL", "SQLite", "MySQL", "MongoDB", "Redis"],
+        other: ["Linux", "Docker", "Kubernetes, "AWS"]
     }
 };
 ```
