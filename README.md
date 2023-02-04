@@ -15,7 +15,7 @@ const samuel = {
             js: ["React"],
             css: ["styled-components", "tailwind"]
         },
-        backEnd: ["Node", "Express", "Nest"],
+        backEnd: ["Node.js", "NestJS"],
         databases: ["PostgreSQL", "SQLite", "MySQL", "MongoDB", "Redis"],
         other: ["Linux", "Docker", "Kubernetes, "AWS"]
     }
