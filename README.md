@@ -1,5 +1,3 @@
-![head.png](https://i.imgur.com/xdhf60h.png)
-
 <h3 align="center">🚀 fullstack developer 🚀</h3>
 
 Thanks for stopping by, I'm **Samuel Haro**.
