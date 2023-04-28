@@ -15,7 +15,7 @@ const samuel = {
         },
         backEnd: ["Node.js", "NestJS"],
         databases: ["PostgreSQL", "SQLite", "MySQL", "MongoDB", "Redis"],
-        other: ["Linux", "Docker", "Kubernetes, "AWS"]
+        other: ["Linux", "Docker", "AWS"]
     }
 };
 ```
