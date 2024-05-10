@@ -7,11 +7,11 @@ Thanks for stopping by, I'm **Samuel Haro**.
 ```javascript
 const samuel = {
     askMeAbout: ["web dev", "crypto", "tech", "gaming"],
-    technologies: {
+    stack: {
         languages: ["JavaScript", "TypeScript", "Go"],
         frontEnd: {
             js: ["React"],
-            css: ["styled-components", "tailwind"]
+            css: ["MaterialUI", "tailwind"]
         },
         backEnd: ["Node.js", "NestJS"],
         databases: ["PostgreSQL", "SQLite", "MySQL", "MongoDB", "Redis"],
