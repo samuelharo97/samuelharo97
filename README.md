@@ -22,7 +22,7 @@ const samuel = {
 
 - Currently focusing on TypeScript, React and Nest, while also studying Golang and TDD! 🖥️
 
-- Working on my bachelors degree in Computer Engineering at UNIVESP in my spare time. 👨‍💻
+- Working on my bachelor's degree in Information Technology at UNIVESP in my spare time. 👨‍💻
 
 
 ![samuel's github stats](https://samuel-gitstats.vercel.app/api?username=samuelharo97&hide=contribs,prs&count_private=true&show_icons=true)
