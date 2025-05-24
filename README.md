@@ -6,7 +6,7 @@ Thanks for stopping by, I'm **Samuel Haro**.
 
 ```javascript
 const samuel = {
-    askMeAbout: ["web dev", "crypto", "tech", "gaming"],
+    askMeAbout: ["investing", "tech", "gaming", "mma/ufc"],
     stack: {
         languages: ["JavaScript", "TypeScript", "Go"],
         frontEnd: {
@@ -20,7 +20,7 @@ const samuel = {
 };
 ```
 
-- Currently focusing on TypeScript, React and Nest, while also studying Golang and TDD! 🖥️
+- Currently mastering TypeScript, React and NestJS, while also studying Golang! 🖥️
 
 - Working on my bachelor's degree in Information Technology at UNIVESP in my spare time. 👨‍💻
 
