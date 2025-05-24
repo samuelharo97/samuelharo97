@@ -10,7 +10,7 @@ const samuel = {
     stack: {
         languages: ["JavaScript", "TypeScript", "Go"],
         frontEnd: {
-            js: ["React"],
+            js: ["React", "React Native"],
             css: ["MaterialUI", "tailwind"]
         },
         backEnd: ["Node.js", "NestJS"],
