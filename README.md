@@ -20,9 +20,9 @@ const samuel = {
 };
 ```
 
-- Currently mastering TypeScript, React and NestJS, while also studying Golang! 🖥️
-
-- Working on my bachelor's degree in Information Technology at UNIVESP in my spare time. 👨‍💻
+- My main stack is TypeScript, React and NestJS! 🖥️
+- I've fallen in love with Go, and try to use it everywhere I can :)
+- I also got a bachelor's degree in Information Technology from UNIVESP. 👨‍💻
 
 
 ![samuel's github stats](https://samuel-gitstats.vercel.app/api?username=samuelharo97&hide=contribs,prs&count_private=true&show_icons=true)
